@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "IGCities"]
+	path = IGCities
+	url = https://github.com/cran/IGCities
+	shallow = true
+	registered = true
 [submodule "Rtauchen"]
 	path = Rtauchen
 	url = https://github.com/davidzarruk/rtauchen
